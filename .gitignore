@@ -1,0 +1,36 @@
+# Compiled source files
+*.m4
+*.mh
+
+# Generated C files from compilation
+*.c
+*.h
+
+# Executables
+*.exe
+*.out
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Build artifacts
+bin/
+obj/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Documentation builds
+docs/_build/

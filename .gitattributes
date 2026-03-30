@@ -1,0 +1,22 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Explicitly declare text files
+*.c text
+*.h text
+*.m4 text
+*.mh text
+*.sh text eol=lf
+
+# Denote all files that are truly binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.zip binary
+*.gz binary
+
+# Linguist language overrides
+*.m4 linguist-language=Makki
+*.mh linguist-language=Makki
