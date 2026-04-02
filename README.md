@@ -136,9 +136,8 @@ function newList<T>() -> List<T> {
 
 ## 相关项目
 
-- [mlang](https://github.com/makki-lang/mlang) - Makki 语言编译器本体
-- [makki-vscode-extension](https://github.com/makki-lang/makki-vscode-extension) - VSCode 语言扩展
-- [makki-docs](https://github.com/makki-lang/makki-docs) - Makki 语言文档
+- [mlang](https://github.com/makkichan947/mlang) - Makki 语言编译器本体
+- [makki-vscode-extension](https://github.com/makkichan947/makki-vscode-extension) - VSCode 语言扩展
 
 ## 作者
 
